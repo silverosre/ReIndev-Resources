@@ -366,4 +366,7 @@
 <Contents><Key>newsound/mob/wyvern/wings6.ogg</Key><LastModified>1637612134</LastModified><Size>11150</Size><Signature>0000000000000000000000000000000000000010</Signature></Contents>
 <Contents><Key>newsound/mob/wyvern/fangsnew.ogg</Key><LastModified>1637612134</LastModified><Size>8664</Size><Signature>0000000000000000000000000000000000000011</Signature></Contents>
 <Contents><Key>newsound/mob/wyvern/fireball.ogg</Key><LastModified>1637612134</LastModified><Size>8535</Size><Signature>0000000000000000000000000000000000000012</Signature></Contents>
+<Contents><Key>newsound/mob/wyvern/purr.ogg</Key><LastModified>1637612134</LastModified><Size>34920</Size><Signature>0000000000000000000000000000000000000013</Signature></Contents>
+<Contents><Key>newsound/mob/wyvern/idle1.ogg</Key><LastModified>1637612134</LastModified><Size>17432</Size><Signature>0000000000000000000000000000000000000014</Signature></Contents>
+<Contents><Key>newsound/mob/wyvern/idle2.ogg</Key><LastModified>1637612134</LastModified><Size>16156</Size><Signature>0000000000000000000000000000000000000015</Signature></Contents>
 </AlphaResList>
