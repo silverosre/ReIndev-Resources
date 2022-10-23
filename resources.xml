@@ -353,4 +353,9 @@
 
 <Contents><Key>newsound/mob/wasp1.ogg</Key><LastModified>1637612134</LastModified><Size>22553</Size><Signature>65b49739d48ebc47879ca5528c8283329980b304</Signature></Contents>
 <Contents><Key>newsound/mob/wasp2.ogg</Key><LastModified>1637612134</LastModified><Size>27278</Size><Signature>501b40b97ee55cb7a97943ee620aa05131089fc2</Signature></Contents>
+
+<Contents><Key>newsound/mob/wyvern/growl1.ogg</Key><LastModified>1637612134</LastModified><Size>26384</Size><Signature>65b49739d48ebc47879ca5528c8283329980b305</Signature></Contents>
+<Contents><Key>newsound/mob/wyvern/growl2.ogg</Key><LastModified>1637612134</LastModified><Size>27101</Size><Signature>501b40b97ee55cb7a97943ee620aa05131089fc6</Signature></Contents>
+<Contents><Key>newsound/mob/wyvern/growl3.ogg</Key><LastModified>1637612134</LastModified><Size>27102</Size><Signature>65b49739d48ebc47879ca5528c8283329980b307</Signature></Contents>
+<Contents><Key>newsound/mob/wyvern/growl4.ogg</Key><LastModified>1637612134</LastModified><Size>25574</Size><Signature>501b40b97ee55cb7a97943ee620aa05131089fc8</Signature></Contents>
 </AlphaResList>
