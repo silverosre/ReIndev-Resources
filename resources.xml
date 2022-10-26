@@ -373,8 +373,7 @@
 <Contents><Key>newsound/mob/wendigo/idle.ogg</Key><LastModified>1637612134</LastModified><Size>10772</Size><Signature>0000000000000000000000000000000000000016</Signature></Contents>
 <Contents><Key>newsound/mob/wendigo/hurt.ogg</Key><LastModified>1637612134</LastModified><Size>16727</Size><Signature>0000000000000000000000000000000000000017</Signature></Contents>
 <Contents><Key>newsound/mob/wendigo/alert.ogg</Key><LastModified>1637612134</LastModified><Size>15630</Size><Signature>0000000000000000000000000000000000000018</Signature></Contents>
-<Contents><Key>newsound/mob/wendigo/death1.ogg</Key><LastModified>1637612134</LastModified><Size>16722</Size><Signature>0000000000000000000000000000000000000019</Signature></Contents>
-<Contents><Key>newsound/mob/wendigo/death2.ogg</Key><LastModified>1637612134</LastModified><Size>19616</Size><Signature>0000000000000000000000000000000000000020</Signature></Contents>
-<Contents><Key>newsound/mob/wendigo/attack.ogg</Key><LastModified>1637612134</LastModified><Size>10359</Size><Signature>0000000000000000000000000000000000000021</Signature></Contents>
-<Contents><Key>newsound/mob/wendigo/reveal.ogg</Key><LastModified>1637612134</LastModified><Size>46068</Size><Signature>0000000000000000000000000000000000000022</Signature></Contents>
+<Contents><Key>newsound/mob/wendigo/death.ogg</Key><LastModified>1637612134</LastModified><Size>16722</Size><Signature>0000000000000000000000000000000000000019</Signature></Contents>
+<Contents><Key>newsound/mob/wendigo/attack.ogg</Key><LastModified>1637612134</LastModified><Size>10359</Size><Signature>0000000000000000000000000000000000000020</Signature></Contents>
+<Contents><Key>newsound/mob/wendigo/reveal.ogg</Key><LastModified>1637612134</LastModified><Size>46068</Size><Signature>0000000000000000000000000000000000000021</Signature></Contents>
 </AlphaResList>
