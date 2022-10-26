@@ -370,7 +370,7 @@
 <Contents><Key>newsound/mob/wyvern/idle1.ogg</Key><LastModified>1637612134</LastModified><Size>17432</Size><Signature>0000000000000000000000000000000000000014</Signature></Contents>
 <Contents><Key>newsound/mob/wyvern/idle2.ogg</Key><LastModified>1637612134</LastModified><Size>16156</Size><Signature>0000000000000000000000000000000000000015</Signature></Contents>
 
-<Contents><Key>newsound/mob/wendigo/idle.ogg</Key><LastModified>1637612134</LastModified><Size>10772</Size><Signature>0000000000000000000000000000000000000016</Signature></Contents>
+<Contents><Key>newsound/mob/wendigo/idle.ogg</Key><LastModified>1637612134</LastModified><Size>12611</Size><Signature>0000000000000000000000000000000000000016</Signature></Contents>
 <Contents><Key>newsound/mob/wendigo/hurt.ogg</Key><LastModified>1637612134</LastModified><Size>16727</Size><Signature>0000000000000000000000000000000000000017</Signature></Contents>
 <Contents><Key>newsound/mob/wendigo/alert.ogg</Key><LastModified>1637612134</LastModified><Size>15630</Size><Signature>0000000000000000000000000000000000000018</Signature></Contents>
 <Contents><Key>newsound/mob/wendigo/death.ogg</Key><LastModified>1637612134</LastModified><Size>16722</Size><Signature>0000000000000000000000000000000000000019</Signature></Contents>
