@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <AlphaResList>
 <Name>MinecraftAlphaResourcesReplacement</Name>
+<Contents><Key>menu/harp.ogg</Key><LastModified>1637612137</LastModified><Size>7870938</Size><Signature>0000000000000000000000000000000000000033</Signature></Contents>
 <Contents><Key>menu/background.ogg</Key><LastModified>1637612137</LastModified><Size>2401395</Size><Signature>0000000000000000000000000000000000000022</Signature></Contents>
 <Contents><Key>newmusic/calm1.ogg</Key><LastModified>1637612131</LastModified><Size>2546949</Size><Signature>6b5787a0c8bffd4f7489b8d77c9ce9f9bf54c7cc</Signature></Contents>
 <Contents><Key>newmusic/calm2.ogg</Key><LastModified>1637612131</LastModified><Size>1961732</Size><Signature>d61634cc432fec83f7f2ca8089b9f051cc71f92d</Signature></Contents>
