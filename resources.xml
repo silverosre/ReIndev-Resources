@@ -391,11 +391,11 @@
 <Contents><Key>newsound/mob/demon/laugh2.ogg</Key><LastModified>1637612134</LastModified><Size>55280</Size><Signature>0000000000000000000000000000000000000031</Signature></Contents>
 <Contents><Key>newsound/mob/demon/laugh3.ogg</Key><LastModified>1637612134</LastModified><Size>54089</Size><Signature>0000000000000000000000000000000000000032</Signature></Contents>
 
-<Contents><Key>newsound/step/chain1.wav</Key><LastModified>1637612139</LastModified><Size>20480</Size><Signature>0000000000000000000000000000000000000033</Signature></Contents>
-<Contents><Key>newsound/step/chain2.wav</Key><LastModified>1637612139</LastModified><Size>8192</Size><Signature>0000000000000000000000000000000000000034</Signature></Contents>
-<Contents><Key>newsound/step/chain3.wav</Key><LastModified>1637612139</LastModified><Size>16384</Size><Signature>0000000000000000000000000000000000000035</Signature></Contents>
-<Contents><Key>newsound/step/metal1.wav</Key><LastModified>1637612139</LastModified><Size>12288</Size><Signature>0000000000000000000000000000000000000036</Signature></Contents>
-<Contents><Key>newsound/step/metal2.wav</Key><LastModified>1637612139</LastModified><Size>16384</Size><Signature>0000000000000000000000000000000000000037</Signature></Contents>
-<Contents><Key>newsound/step/metal3.wav</Key><LastModified>1637612139</LastModified><Size>16384</Size><Signature>0000000000000000000000000000000000000038</Signature></Contents>
+<Contents><Key>newsound/step/chain1.ogg</Key><LastModified>1637612139</LastModified><Size>20480</Size><Signature>0000000000000000000000000000000000000033</Signature></Contents>
+<Contents><Key>newsound/step/chain2.ogg</Key><LastModified>1637612139</LastModified><Size>8192</Size><Signature>0000000000000000000000000000000000000034</Signature></Contents>
+<Contents><Key>newsound/step/chain3.ogg</Key><LastModified>1637612139</LastModified><Size>16384</Size><Signature>0000000000000000000000000000000000000035</Signature></Contents>
+<Contents><Key>newsound/step/metal1.ogg</Key><LastModified>1637612139</LastModified><Size>12288</Size><Signature>0000000000000000000000000000000000000036</Signature></Contents>
+<Contents><Key>newsound/step/metal2.ogg</Key><LastModified>1637612139</LastModified><Size>16384</Size><Signature>0000000000000000000000000000000000000037</Signature></Contents>
+<Contents><Key>newsound/step/metal3.ogg</Key><LastModified>1637612139</LastModified><Size>16384</Size><Signature>0000000000000000000000000000000000000038</Signature></Contents>
 
 </AlphaResList>
