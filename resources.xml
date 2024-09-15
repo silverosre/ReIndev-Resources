@@ -371,16 +371,16 @@
 <Contents><Key>newsound/mob/wyvern/idle1.ogg</Key><LastModified>1637612134</LastModified><Size>17432</Size><Signature>0000000000000000000000000000000000000014</Signature></Contents>
 <Contents><Key>newsound/mob/wyvern/idle2.ogg</Key><LastModified>1637612134</LastModified><Size>16156</Size><Signature>0000000000000000000000000000000000000015</Signature></Contents>
 
-<Contents><Key>newsound/mob/wendigo/idle.ogg</Key><LastModified>1637612134</LastModified><Size>10772</Size><Signature>0000000000000000000000000000000000000016</Signature></Contents>
+<Contents><Key>newsound/mob/wendigo/idle.ogg</Key><LastModified>1637612134</LastModified><Size>12611</Size><Signature>0000000000000000000000000000000000000016</Signature></Contents>
 <Contents><Key>newsound/mob/wendigo/hurt.ogg</Key><LastModified>1637612134</LastModified><Size>16727</Size><Signature>0000000000000000000000000000000000000017</Signature></Contents>
 <Contents><Key>newsound/mob/wendigo/alert.ogg</Key><LastModified>1637612134</LastModified><Size>15630</Size><Signature>0000000000000000000000000000000000000018</Signature></Contents>
-<Contents><Key>newsound/mob/wendigo/death.ogg</Key><LastModified>1637612134</LastModified><Size>16722</Size><Signature>0000000000000000000000000000000000000019</Signature></Contents>
+<Contents><Key>newsound/mob/wendigo/death.ogg</Key><LastModified>1637612134</LastModified><Size>19616</Size><Signature>0000000000000000000000000000000000000019</Signature></Contents>
 <Contents><Key>newsound/mob/wendigo/attack.ogg</Key><LastModified>1637612134</LastModified><Size>10359</Size><Signature>0000000000000000000000000000000000000020</Signature></Contents>
 <Contents><Key>newsound/mob/wendigo/reveal.ogg</Key><LastModified>1637612134</LastModified><Size>46068</Size><Signature>0000000000000000000000000000000000000021</Signature></Contents>
 
-<Contents><Key>newsound/random/armor1.ogg</Key><LastModified>1637612134</LastModified><Size>12288</Size><Signature>0000000000000000000000000000000000000022</Signature></Contents>
-<Contents><Key>newsound/random/armor2.ogg</Key><LastModified>1637612134</LastModified><Size>16384</Size><Signature>0000000000000000000000000000000000000023</Signature></Contents>
-<Contents><Key>newsound/random/armor3.ogg</Key><LastModified>1637612134</LastModified><Size>12288</Size><Signature>0000000000000000000000000000000000000024</Signature></Contents>
+<Contents><Key>newsound/random/armor1.ogg</Key><LastModified>1637612134</LastModified><Size>11269</Size><Signature>0000000000000000000000000000000000000022</Signature></Contents>
+<Contents><Key>newsound/random/armor2.ogg</Key><LastModified>1637612134</LastModified><Size>13268</Size><Signature>0000000000000000000000000000000000000023</Signature></Contents>
+<Contents><Key>newsound/random/armor3.ogg</Key><LastModified>1637612134</LastModified><Size>11429</Size><Signature>0000000000000000000000000000000000000024</Signature></Contents>
 
 <Contents><Key>newsound/mob/demon/idle1.ogg</Key><LastModified>1637612134</LastModified><Size>32981</Size><Signature>0000000000000000000000000000000000000025</Signature></Contents>
 <Contents><Key>newsound/mob/demon/idle2.ogg</Key><LastModified>1637612134</LastModified><Size>11454</Size><Signature>0000000000000000000000000000000000000026</Signature></Contents>
@@ -391,11 +391,11 @@
 <Contents><Key>newsound/mob/demon/laugh2.ogg</Key><LastModified>1637612134</LastModified><Size>55280</Size><Signature>0000000000000000000000000000000000000031</Signature></Contents>
 <Contents><Key>newsound/mob/demon/laugh3.ogg</Key><LastModified>1637612134</LastModified><Size>54089</Size><Signature>0000000000000000000000000000000000000032</Signature></Contents>
 
-<Contents><Key>newsound/step/chain1.ogg</Key><LastModified>1637612139</LastModified><Size>20480</Size><Signature>0000000000000000000000000000000000000033</Signature></Contents>
-<Contents><Key>newsound/step/chain2.ogg</Key><LastModified>1637612139</LastModified><Size>20480</Size><Signature>0000000000000000000000000000000000000034</Signature></Contents>
-<Contents><Key>newsound/step/chain3.ogg</Key><LastModified>1637612139</LastModified><Size>20480</Size><Signature>0000000000000000000000000000000000000035</Signature></Contents>
-<Contents><Key>newsound/step/metal1.ogg</Key><LastModified>1637612139</LastModified><Size>12288</Size><Signature>0000000000000000000000000000000000000036</Signature></Contents>
-<Contents><Key>newsound/step/metal2.ogg</Key><LastModified>1637612139</LastModified><Size>16384</Size><Signature>0000000000000000000000000000000000000037</Signature></Contents>
-<Contents><Key>newsound/step/metal3.ogg</Key><LastModified>1637612139</LastModified><Size>16384</Size><Signature>0000000000000000000000000000000000000038</Signature></Contents>
+<Contents><Key>newsound/step/chain1.ogg</Key><LastModified>1637612139</LastModified><Size>19383</Size><Signature>0000000000000000000000000000000000000033</Signature></Contents>
+<Contents><Key>newsound/step/chain2.ogg</Key><LastModified>1637612139</LastModified><Size>18353</Size><Signature>0000000000000000000000000000000000000034</Signature></Contents>
+<Contents><Key>newsound/step/chain3.ogg</Key><LastModified>1637612139</LastModified><Size>19295</Size><Signature>0000000000000000000000000000000000000035</Signature></Contents>
+<Contents><Key>newsound/step/metal1.ogg</Key><LastModified>1637612139</LastModified><Size>11273</Size><Signature>0000000000000000000000000000000000000036</Signature></Contents>
+<Contents><Key>newsound/step/metal2.ogg</Key><LastModified>1637612139</LastModified><Size>13363</Size><Signature>0000000000000000000000000000000000000037</Signature></Contents>
+<Contents><Key>newsound/step/metal3.ogg</Key><LastModified>1637612139</LastModified><Size>12853</Size><Signature>0000000000000000000000000000000000000038</Signature></Contents>
 
 </AlphaResList>
