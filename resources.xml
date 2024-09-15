@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <AlphaResList>
 <Name>MinecraftAlphaResourcesReplacement</Name>
-<Contents><Key>menu/harp.ogg</Key><LastModified>1637612137</LastModified><Size>7870938</Size><Signature>0000000000000000000000000000000000000033</Signature></Contents>
-<Contents><Key>menu/background.ogg</Key><LastModified>1637612137</LastModified><Size>2401395</Size><Signature>0000000000000000000000000000000000000022</Signature></Contents>
+<Contents><Key>menu/harp.ogg</Key><LastModified>1637612137</LastModified><Size>7870938</Size><Signature>1000000000000000000000000000000000000033</Signature></Contents>
+<Contents><Key>menu/background.ogg</Key><LastModified>1637612137</LastModified><Size>2401395</Size><Signature>1000000000000000000000000000000000000022</Signature></Contents>
 <Contents><Key>newmusic/calm1.ogg</Key><LastModified>1637612131</LastModified><Size>2546949</Size><Signature>6b5787a0c8bffd4f7489b8d77c9ce9f9bf54c7cc</Signature></Contents>
 <Contents><Key>newmusic/calm2.ogg</Key><LastModified>1637612131</LastModified><Size>1961732</Size><Signature>d61634cc432fec83f7f2ca8089b9f051cc71f92d</Signature></Contents>
 <Contents><Key>newmusic/calm3.ogg</Key><LastModified>1637612132</LastModified><Size>2198764</Size><Signature>195fb738cf9949ff4b1b7a5af020d276bd3c6409</Signature></Contents>
@@ -397,5 +397,27 @@
 <Contents><Key>newsound/step/metal1.ogg</Key><LastModified>1637612139</LastModified><Size>11273</Size><Signature>0000000000000000000000000000000000000036</Signature></Contents>
 <Contents><Key>newsound/step/metal2.ogg</Key><LastModified>1637612139</LastModified><Size>13363</Size><Signature>0000000000000000000000000000000000000037</Signature></Contents>
 <Contents><Key>newsound/step/metal3.ogg</Key><LastModified>1637612139</LastModified><Size>12853</Size><Signature>0000000000000000000000000000000000000038</Signature></Contents>
+
+<Contents><Key>music_overworld_day/calm1.ogg</Key><LastModified>1637612139</LastModified><Size>2546949</Size><Signature>0700000000000000000000000000000000000001</Signature></Contents>
+<Contents><Key>music_overworld_day/calm2.ogg</Key><LastModified>1637612139</LastModified><Size>1961732</Size><Signature>0700000000000000000000000000000000000002</Signature></Contents>
+<Contents><Key>music_overworld_day/calm3.ogg</Key><LastModified>1637612139</LastModified><Size>2198764</Size><Signature>0700000000000000000000000000000000000003</Signature></Contents>
+<Contents><Key>music_overworld_day/calm4.ogg</Key><LastModified>1637612139</LastModified><Size>3994686</Size><Signature>0700000000000000000000000000000000000004</Signature></Contents>
+<Contents><Key>music_overworld_day/calm5.ogg</Key><LastModified>1637612139</LastModified><Size>3172855</Size><Signature>0700000000000000000000000000000000000005</Signature></Contents>
+<Contents><Key>music_overworld_night/calm1.ogg</Key><LastModified>1637612139</LastModified><Size>3435988</Size><Signature>0700000000000000000000000000000000000006</Signature></Contents>
+<Contents><Key>music_overworld_night/night1.ogg</Key><LastModified>1637612139</LastModified><Size>1446496</Size><Signature>0700000000000000000000000000000000000007</Signature></Contents>
+<Contents><Key>music_overworld_night/night2.ogg</Key><LastModified>1637612139</LastModified><Size>11162996</Size><Signature>0700000000000000000000000000000000000008</Signature></Contents>
+<Contents><Key>music_overworld_night/night3.ogg</Key><LastModified>1637612139</LastModified><Size>2970859</Size><Signature>0700000000000000000000000000000000000009</Signature></Contents>
+<Contents><Key>music_overworld_night/night4.ogg</Key><LastModified>1637612139</LastModified><Size>9079135</Size><Signature>0700000000000000000000000000000000000010</Signature></Contents>
+<Contents><Key>music_overworld_sky/sky1.ogg</Key><LastModified>1637612139</LastModified><Size>6160842</Size><Signature>0700000000000000000000000000000000000011</Signature></Contents>
+<Contents><Key>music_overworld_sky/sky2.ogg</Key><LastModified>1637612139</LastModified><Size>11169050</Size><Signature>0700000000000000000000000000000000000012</Signature></Contents>
+<Contents><Key>music_nether_dungeon/dungeon1.ogg</Key><LastModified>1637612139</LastModified><Size>10968085</Size><Signature>0700000000000000000000000000000000000013</Signature></Contents>
+<Contents><Key>music_nether_dungeon/dungeon2.ogg</Key><LastModified>1637612139</LastModified><Size>12731906</Size><Signature>0700000000000000000000000000000000000014</Signature></Contents>
+
+<Contents><Key>streaming/axelscaar/zircon.ogg</Key><LastModified>1637612139</LastModified><Size>11663828</Size><Signature>0400000000000000000000000000000000000001</Signature></Contents>
+<Contents><Key>streaming/axelscaar/fae.ogg</Key><LastModified>1637612139</LastModified><Size>2426047</Size><Signature>0400000000000000000000000000000000000002</Signature></Contents>
+<Contents><Key>streaming/axelscaar/frozen.ogg</Key><LastModified>1637612139</LastModified><Size>4517199</Size><Signature>0400000000000000000000000000000000000003</Signature></Contents>
+<Contents><Key>streaming/axelscaar/harp.ogg</Key><LastModified>1637612139</LastModified><Size>7870938</Size><Signature>0400000000000000000000000000000000000004</Signature></Contents>
+<Contents><Key>streaming/axelscaar/placebo.ogg</Key><LastModified>1637612139</LastModified><Size>10707294</Size><Signature>0400000000000000000000000000000000000005</Signature></Contents>
+<Contents><Key>streaming/axelscaar/wont.ogg</Key><LastModified>1637612139</LastModified><Size>6567218</Size><Signature>0400000000000000000000000000000000000006</Signature></Contents>
 
 </AlphaResList>
