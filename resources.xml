@@ -402,6 +402,12 @@
 <Contents><Key>newsound/tile/dungeon_chest/dungeon_chest1.ogg</Key><LastModified>1637612139</LastModified><Size>108777</Size><Signature>0000000000000000000000000000000000000040</Signature></Contents>
 <Contents><Key>newsound/tile/dungeon_chest/open.ogg</Key><LastModified>1637612139</LastModified><Size>261736</Size><Signature>0000000000000000000000000000000000000041</Signature></Contents>
 
+<Contents><Key>newsound/item/flute/ocarina.ogg</Key><LastModified>1637612139</LastModified><Size>57344</Size><Signature>0000000000000000000000000000000000000042</Signature></Contents>
+<Contents><Key>newsound/item/flute/recorder.ogg</Key><LastModified>1637612139</LastModified><Size>53248</Size><Signature>0000000000000000000000000000000000000043</Signature></Contents>
+<Contents><Key>newsound/item/flute/horn.ogg</Key><LastModified>1637612139</LastModified><Size>65536</Size><Signature>0000000000000000000000000000000000000044</Signature></Contents>
+<Contents><Key>newsound/item/flute/square.ogg</Key><LastModified>1637612139</LastModified><Size>65536</Size><Signature>0000000000000000000000000000000000000045</Signature></Contents>
+<Contents><Key>newsound/item/flute/choir.ogg</Key><LastModified>1637612139</LastModified><Size>81920</Size><Signature>0000000000000000000000000000000000000046</Signature></Contents>
+
 <Contents><Key>music_overworld_day/calm1.ogg</Key><LastModified>1637612139</LastModified><Size>2546949</Size><Signature>0700000000000000000000000000000000000001</Signature></Contents>
 <Contents><Key>music_overworld_day/calm2.ogg</Key><LastModified>1637612139</LastModified><Size>1961732</Size><Signature>0700000000000000000000000000000000000002</Signature></Contents>
 <Contents><Key>music_overworld_day/calm3.ogg</Key><LastModified>1637612139</LastModified><Size>2198764</Size><Signature>0700000000000000000000000000000000000003</Signature></Contents>
