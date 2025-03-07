@@ -408,8 +408,8 @@
 <Contents><Key>newsound/item/flute/square.ogg</Key><LastModified>1637612139</LastModified><Size>61440</Size><Signature>0000000000000000000000000000000000000045</Signature></Contents>
 <Contents><Key>newsound/item/flute/choir.ogg</Key><LastModified>1637612139</LastModified><Size>81920</Size><Signature>0000000000000000000000000000000000000046</Signature></Contents>
 
-<Contents><Key>newsound/tile/tongue/tongue_off.ogg</Key><LastModified>1637612139</LastModified><Size>20480</Size><Signature>0000000000000000000000000000000000000047</Signature></Contents>
-<Contents><Key>newsound/tile/tongue/tongue_on.ogg</Key><LastModified>1637612139</LastModified><Size>20480</Size><Signature>0000000000000000000000000000000000000048</Signature></Contents>
+<Contents><Key>newsound/tile/tongue/tongue_off.ogg</Key><LastModified>1637612134</LastModified><Size>20480</Size><Signature>0000000000000000000000000000000000000147</Signature></Contents>
+<Contents><Key>newsound/tile/tongue/tongue_on.ogg</Key><LastModified>1637612134</LastModified><Size>20480</Size><Signature>0000000000000000000000000000000000000148</Signature></Contents>
 
 <Contents><Key>music_overworld_day/calm1.ogg</Key><LastModified>1637612139</LastModified><Size>2546949</Size><Signature>0700000000000000000000000000000000000001</Signature></Contents>
 <Contents><Key>music_overworld_day/calm2.ogg</Key><LastModified>1637612139</LastModified><Size>1961732</Size><Signature>0700000000000000000000000000000000000002</Signature></Contents>
