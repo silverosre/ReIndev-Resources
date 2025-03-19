@@ -409,6 +409,9 @@
 <Contents><Key>newsound/item/flute/choir.ogg</Key><LastModified>1637612139</LastModified><Size>81920</Size><Signature>0000000000000000000000000000000000000046</Signature></Contents>
 <Contents><Key>newsound/mob/cucurboo/cucurboo1.ogg</Key><LastModified>1637612134</LastModified><Size>40960</Size><Signature>000000000000000000000000000000000000047</Signature></Contents>
 <Contents><Key>newsound/mob/cucurboo/cucurboo2.ogg</Key><LastModified>1637612134</LastModified><Size>24576</Size><Signature>000000000000000000000000000000000000048</Signature></Contents>
+<Contents><Key>newsound/mob/cucurboo/cucurboo3.ogg</Key><LastModified>1637612134</LastModified><Size>24576</Size><Signature>000000000000000000000000000000000000049</Signature></Contents>
+<Contents><Key>newsound/mob/cucurboo/cucurboo4.ogg</Key><LastModified>1637612134</LastModified><Size>20480</Size><Signature>000000000000000000000000000000000000050</Signature></Contents>
+<Contents><Key>newsound/mob/cucurboo/mhm.ogg</Key><LastModified>1637612134</LastModified><Size>24576</Size><Signature>000000000000000000000000000000000000051</Signature></Contents>
 
 <Contents><Key>newsound/tile/tongue/tongue_off.ogg</Key><LastModified>1637612134</LastModified><Size>20480</Size><Signature>0000000000000000000000000000000000000147</Signature></Contents>
 <Contents><Key>newsound/tile/tongue/tongue_on.ogg</Key><LastModified>1637612134</LastModified><Size>20480</Size><Signature>0000000000000000000000000000000000000148</Signature></Contents>
